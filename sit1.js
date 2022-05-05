@@ -6,7 +6,7 @@ document.addEventListener("DOMContentLoaded",function(){
     for (var i = radios.length - 1; i >= 0; i--) {
 
         radios[i].addEventListener('change', function(){
-            localStorage.setItem("choice",this.value)
+            localStorage.setItem("choice1",this.value)
         })
 
 
