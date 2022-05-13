@@ -16,7 +16,14 @@ The design process for the lich began in 2D. I wanted him to look stylized, maki
 
 Then came making the starbucks scene behind him. I wanted it to be simple and be carried mostly by its color choices, keeping the lich prominent in each frame: dark purples, white and mint green accents would keep him dominant with his bright white-pink skin and dark green robe.
 
+It was also an intentional choice not to use a styles.css: the managerial upkeep would be annoying, however each page's body element had to be unique, and if drawn from a universal styles.css, wouldn't be able to functionally change from page to page.
+
 Since the localstorage choices only affect his response to you and not the actual event of the next page, I had to make the choices all place you in the uniform place of the page sequence. This wasn't a true choose your own adventure, its more like a choose your own backtalk. I was scared that this would make the player feel robbed of agency and frustrated that no matter what they did, it always ended up the same. My silly justification was that when encountering an evil powerful lich, you really have no agency. My real justification is that I didn't know how to write a script that would account for all your cumulative choices and land you in a particularly result. 
+
+https://cdn.discordapp.com/attachments/830502096611573830/974762510823604254/lichtpose.png
+The preliminary 2d art for the lich
+https://cdn.discordapp.com/attachments/830502096611573830/974762730894536764/7f45c24e6535ddfc1ea6194c745d1d83.jpg
+Inside blender looking at the scene
 
 EXECUTION
 
